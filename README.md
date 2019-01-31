@@ -1,7 +1,5 @@
 #### Projet réalisé par :
-Aliya Gizatullina @a1iya
-Armelle Peuvion Weiss @armelle
-William Spartacus @willyspa
+Aliya Gizatullina @a1iya, Armelle Peuvion Weiss @armelle et William Spartacus @willyspa
 
 ## The Hacking News
 
@@ -20,23 +18,3 @@ On a voulu créer un message board à la Hacker News. Les utilisateurs peuvent p
 5) $ rails console
 
 6) tp User.all, tp Link.all, tp Comment.all ou tp Comment1.all
-
-Bisous les correcteurs ^^
-
-       .,,..;~`''''`''''＜``彡 } 
-　 _...:=,`'   ︵　 т　︵　　X彡-J 
-＜`　彡 /　　ミ　　,_人_.　＊彡　`~ 
-　 `~=::　　　 　　　　　　 　　　Y 
-　　 　i.　　　　　　　　　　　　 .: 
-　　　.\　　　　　　　,｡---.,,　　./ 
-　　　　ヽ　／ﾞ''```\;.{　　　 ＼／ 
-　　　　　Y　　　`J..r_.彳　 　| 
-　　　　　{　　　``　　`　　　i 
-　　　　　\　　　　　　　  　　＼　　　..︵︵. 
-　　　　　`＼　　　　　　　　　``ゞ.,/` oQ o`) 
-　　　　　　`i,　　　　  　　　　　　Y　 ω　/ 
-　　　　 　　`i,　　　 　　.　　　　"　　　/ 
-　　　　　　`iミ　　　　 　　　　　　　,,ノ 
-　　　　 　 ︵Y..︵.,,　　　　　,,+..__ノ`` 
-　　　　　(,`, З о　　　　,.ノ川彡ゞ彡　　＊ 
-　　　　　 ゞ_,,,....彡彡~　　　`+Х彡彡
